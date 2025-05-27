@@ -1,0 +1,42 @@
+[
+        {
+    "no": 13,
+    "id": "RUPTURE-001",
+    "name": "부적 묶음",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/RUPTURE/001.png",
+      "color": "img/items/color/rupture/001.png",
+      "detail": "img/items/detail/rupture/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/001.png"
+  },
+  {
+    "no": 18,
+    "id": "RUPTURE-002",
+    "name": "장미 면류관",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/002.png",
+      "color": "img/items/color/rupture/002.png"
+    },
+    "desc": "대충 스킬 설명"
+  },
+  {
+    "no": 23,
+    "id": "RUPTURE-003",
+    "name": "벼락가지",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/003.png",
+      "color": "img/items/color/rupture/003.png",
+      "detail": "img/items/detail/rupture/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/003.png"
+  }
+]

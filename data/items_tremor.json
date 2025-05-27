@@ -1,0 +1,42 @@
+[
+    {
+    "no": 16,
+    "id": "TREMOR-001",
+    "name": "초록빛 결실",
+    "type": "tremor",
+    "attrs": ["진동"],
+    "img": {
+      "gray": "img/items/gray/TREMOR/001.png",
+      "color": "img/items/color/tremor/001.png",
+      "detail": "img/items/detail/tremor/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/001.png"
+  },
+  {
+    "no": 24,
+    "id": "TREMOR-002",
+    "name": "녹아내린 눈알",
+    "type": "tremor",
+    "attrs": ["진동"],
+    "img": {
+      "gray": "img/items/gray/tremor/002.png",
+      "color": "img/items/color/tremor/002.png"
+    },
+    "desc": "대충 스킬 설명"
+  },
+  {
+    "no": 31,
+    "id": "TREMOR-003",
+    "name": "닉시 다이버전스",
+    "type": "tremor",
+    "attrs": ["진동"],
+    "img": {
+      "gray": "img/items/gray/tremor/003.png",
+      "color": "img/items/color/tremor/003.png",
+      "detail": "img/items/detail/tremor/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/003.png"
+  }
+]

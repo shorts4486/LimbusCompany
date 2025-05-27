@@ -1,0 +1,42 @@
+[
+  {
+    "no": 5,
+    "id": "BLEED-001",
+    "name": "상처붙이",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/001.png",
+      "color": "img/items/color/bleed/001.png",
+      "detail": "img/items/detail/001.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/001.png"
+  },
+  {
+    "no": 8,
+    "id": "BLEED-002",
+    "name": "늘어붙은 쇠말뚝",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/002.png",
+      "color": "img/items/color/bleed/002.png"
+    },
+    "desc": "대충 스킬 설명"
+  },
+  {
+    "no": 20,
+    "id": "BLEED-003",
+    "name": "흰 목화",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/003.png",
+      "color": "img/items/color/bleed/003.png",
+      "detail": "img/items/detail/bleed/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/003.png"
+  }
+]

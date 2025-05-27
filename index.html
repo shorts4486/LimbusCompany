@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>림버스컴퍼니 도감</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        
+        <nav class="filter-bar" id="filterBar">
+            <button class="filter-btn" data-type="all">전체</button>
+            <button class="filter-btn" data-type="burn"><img src="img/icons/icon1.png" alt="화상">화상</button>
+            <button class="filter-btn" data-type="bleed"><img src="img/icons/icon2.png" alt="출혈">출혈</button>
+            <button class="filter-btn" data-type="tremor"><img src="img/icons/icon3.png" alt="진동">진동</button>
+            <button class="filter-btn" data-type="rupture"><img src="img/icons/icon4.png" alt="파열">파열</button>
+            <button class="filter-btn" data-type="sinking"><img src="img/icons/icon5.png" alt="침잠">침잠</button>
+            <button class="filter-btn" data-type="poise"><img src="img/icons/icon6.png" alt="호흡">호흡</button>
+            <button class="filter-btn" data-type="charge"><img src="img/icons/icon7.png" alt="충전">충전</button>
+            <div class="filter-break"></div>
+            <button class="filter-btn" data-type="slash"><img src="img/icons/icon8.png" alt="참격">참격</button>
+            <button class="filter-btn" data-type="pierce"><img src="img/icons/icon9.png" alt="관통">관통</button>
+            <button class="filter-btn" data-type="blunt"><img src="img/icons/icon10.png" alt="타격">타격</button>
+            <button class="filter-btn" data-type="nothing">범용</button>
+        </nav>
+    </header>
+    <main>
+          <div class="docam-bg">
+            <div class="docam-bg-top"></div>
+            <div class="docam-bg-mid">
+        <!-- flex-container로 카드+상세 블록이 그룹 단위로 들어감 -->
+        <section id="itemFlexList" class="item-flex-list"></section>
+
+<div style="width:100%; max-width:900px; margin:1em auto; display:flex; align-items:center; gap:60px; justify-content:flex-start;">
+    <div id="toggleAllBar" style="margin-left:25px;">
+        <button id="toggleAllBtn" class="common-btn" style="margin:0;">전체 획득</button>
+    </div>
+
+    <div id="countDisplay"
+        style="font-weight:bold; font-size:1.4em; color:#ffb759; padding:0.2em 1.2em; border-radius:16px; margin:0 1em; white-space:nowrap; flex-shrink:0; width:100px; text-align:center;">
+    </div>
+
+    <input id="searchInput" type="text" placeholder="이름 검색"
+        style="padding:0.5em 1em; border-radius:8px; border:1px solid #ccc; font-size:1.1em; width:220px; margin:0;">
+</div>
+
+<div style="width:100%; max-width:900px; margin:0.7em auto 0.1em auto; display:flex; align-items:center; justify-content:center; gap:410px;">
+    <button id="hideAcquiredBtn" class="common-btn toggle-btn offf">
+        획득 토글
+    </button>
+    <nav id="pagination" class="pagination"></nav>
+</div>
+
+    <div class="docam-bg-bottom"></div>
+  </div>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+<div id="customModal" style="display:none;">
+  <div class="modal-bg"></div>
+  <div class="modal-content">
+    <div class="modal-message"></div>
+    <div class="modal-actions">
+      <button id="modalOk">확인</button>
+      <button id="modalCancel">취소</button>
+    </div>
+  </div>
+</div>
+
+

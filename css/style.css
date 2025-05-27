@@ -1,0 +1,521 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #f9f9fa;
+    color: #222;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background: #fff;
+    padding: 1rem 0.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 2rem;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.filter-bar {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    transition: max-height 0.3s;
+    overflow: hidden;
+    position: relative;
+}
+.filter-bar.closed .filter-btn:not(#toggleFilterMenu) {
+    display: none;
+}
+.filter-btn {
+    background: #eee;
+    border: none;
+    border-radius: 999px;
+    padding: 0.5em 1em;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+}
+.filter-btn.selected {
+    background: #ffcf80;
+    font-weight: bold;
+}
+.filter-btn img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+#toggleFilterMenu {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.3em;
+    position: absolute;
+    right: 0.3em;
+    top: 0.15em;
+    z-index: 2;
+}
+main {
+    flex: 1;
+    padding: 2vw 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* === flex-wrap 기반 도감 === */
+.item-flex-list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 670px;
+    margin: 0 auto;
+    gap: 0.6em;    /* 줄별 간격 */
+}
+
+/* 한 줄(카드 6개 + 상세)을 하나의 flex-row로 감쌈 */
+.item-flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.5em;         /* 카드끼리 간격 */
+    width: 100%;
+    align-items: flex-start;
+    margin-bottom: 0;
+    position: relative;
+}
+
+/* 카드 스타일 */
+.item-card {
+    aspect-ratio: 1/1;
+    width: calc(16.66% - 0.5em);  /* 6개 기준(100/6) */
+    min-width: 130px;
+    max-width: 170px;
+    background: transparent; /* <-- 이거! */
+    border-radius: 18px;
+    box-shadow: none;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transition: transform 0.15s;
+    margin: 0;
+}
+.item-card:hover { transform: translateY(-2px) scale(1.03);}
+.item-img {
+    flex: 1;
+    width: 100%;
+    object-fit: contain;
+    background: transparent;
+    transition: filter 0.4s;
+}
+.item-card .check {
+    position: absolute;
+    top: 9px;
+    right: 9px;
+    width: 28px;
+    height: 28px;
+    display: none;
+    z-index: 3;
+}
+.item-card.acquired .check {
+    display: block;
+}
+.item-card .info-btn {
+    position: absolute;
+    bottom: 9px;
+    right: 9px;
+    width: 28px;
+    height: 28px;
+    border: none;
+    background: #55483ecc;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    transition: background 0.15s;
+    color: #fff;         /* 글씨 흰색 */
+    font-size: 1.7em;    /* 글씨 크기 키우기 (적당히 조절 가능) */
+    font-weight: bold;   /* bold체 */
+}
+.item-card .info-btn:hover {
+    background: #ffb95e;
+}
+.item-title {
+    display: none; 
+}
+.item-attrs {
+    display: none;
+}
+
+/* 상세패널: flex-row 바로 아래에 배치 (카드줄에 딱 붙음) */
+.detail-panel {
+    width: 635px;
+    max-width: 635px;
+    min-width: 635px;
+    margin-left: auto;
+    margin-right: auto;
+    /* 나머지는 그대로! */
+    background: #f7da9e;
+    border-radius: 16px;
+    margin: 0.1em 0 0.4em 0;
+    padding: 0.7em 1.3em;
+    width: 100%;
+    opacity: 1;
+    overflow: hidden;
+    text-align: left;
+    position: relative;
+    display: none;
+    /* transition은 js에서 height 조절로 부드럽게도 가능 */
+}
+.detail-panel.open {
+    display: block;
+}
+
+/* 상세 내부 가로 배치 */
+.detail-contents {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1em;            /* 이미지-설명 사이 여백, 조절 가능 */
+    justify-content: flex-start; /* 왼쪽 정렬 (기본값이지만 명시해줘도 됨) */
+    padding: 0;          /* 혹시 좌우 패딩 있으면 0으로 */
+}
+.detail-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+}
+.detail-image {
+    width: 120px;
+    height: 216px;
+    display: block;
+}
+.detail-info {
+    flex: 1;
+    min-width: 0;
+    text-align: left;
+}
+
+/* 모바일 대응 */
+@media (max-width: 900px) {
+    .item-card { width: calc(25% - 0.5em);}
+}
+@media (max-width: 700px) {
+    .item-card { width: calc(50% - 0.5em);}
+    .detail-panel { padding: 1em 0.3em;}
+    .detail-contents { flex-direction: column; align-items: center; gap: 1em;}
+    .detail-info { text-align: center;}
+}
+@media (max-width: 420px) {
+    .item-card { min-width: 105px; max-width: 130px;}
+}
+
+/* 페이지네이션 등 기타 기존 스타일은 그대로 */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 0.3em;
+    margin: 1em 0 0.5em 0;
+    flex-wrap: wrap;
+}
+.pagination button {
+    background: #f0f0f0;
+    border: none;
+    padding: 0.4em 0.95em;
+    margin: 0 0.09em;
+    border-radius: 5px;
+    font-size: 1.05em;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.pagination button.active, .pagination button:hover {
+    background: #ffc852;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 0.7em 0;
+    color: #bbb;
+    background: none;
+}
+
+.detail-panel .detail-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    background: none;
+    border: none;
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #d58a00;
+    cursor: pointer;
+    z-index: 2;
+    padding: 0;
+    line-height: 1;
+    transition: color 0.2s;
+}
+.detail-panel .detail-close:hover {
+    color: #473832;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/fonts/myfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.detail-panel.detail-wide {
+    max-width: 900px;
+    width: 90%;
+}
+
+/* 추가 이미지가 상세정보 아래에 뜨게 */
+.extra-img-wrap {
+    margin-top: 1.5em;
+    text-align: left;    /* ← 왼쪽 정렬! */
+    padding-left: 0;     /* 혹시 좌측 여백 있으면 0으로 */
+}
+
+.extra-img {
+    display: inline-block;
+    width: 420px;         /* 원본 예시처럼 적당한 크기로 */
+    height: 110px;
+    object-fit: cover;
+    border-radius: 12px;
+    vertical-align: top;
+}
+
+
+.side-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 110px;
+    background: #fffbe7;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding-top: 70px;   /* 헤더 높이 맞춰서 */
+    z-index: 100;
+    gap: 0.5em;
+}
+.side-btn {
+    background: none;
+    border: none;
+    font-size: 1.05em;
+    padding: 1.1em 0;
+    cursor: pointer;
+    color: #a86a1c;
+    transition: background 0.15s, color 0.15s;
+    text-align: left;
+    padding-left: 22px;
+}
+.side-btn:hover, .side-btn.selected {
+    background: #ffe2a3;
+    color: #e44100;
+    font-weight: bold;
+}
+body {
+    margin-left: 110px;  /* 본문이 사이드바에 안 가리도록 */
+}
+@media (max-width: 700px) {
+    .side-bar { width: 70px; }
+    body { margin-left: 70px; }
+    .side-btn { font-size: 0.95em; padding-left: 10px;}
+}
+
+
+#toggleAllBar {
+    position: static;
+    top: auto;
+    left: auto;
+    z-index: auto;
+    margin: 0;
+}
+
+#toggleAllBtn {
+    border: none;
+    border-radius: 999px;
+    padding: 0.6em 1.5em;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+    outline: none;
+}
+
+#toggleAllBtn.on {
+    background: #ffcf80;
+    color: #a86a1c;
+}
+#toggleAllBtn.off {
+    background: #c0c0c0;
+    color: #888;
+}
+#toggleAllBtn:hover, #toggleAllBtn:focus {
+    filter: brightness(1.06);
+}
+
+
+#hideAcquiredBtn,
+.toggle-btn {
+    border: none;
+    border-radius: 999px;
+    padding: 0.6em 1.5em;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+    outline: none;
+    background: #c0c0c0;
+    color: #888;
+}
+
+#hideAcquiredBtn.on,
+.toggle-btn.on {
+    background: #ffcf80;
+    color: #a86a1c;
+}
+#hideAcquiredBtn.off,
+.toggle-btn.off {
+    background: #c0c0c0;
+    color: #888;
+}
+
+#hideAcquiredBtn:hover, #hideAcquiredBtn:focus,
+.toggle-btn:hover, .toggle-btn:focus {
+    filter: brightness(1.06);
+}
+
+
+
+
+
+#customModal {
+    position: fixed;
+    z-index: 3000;
+    left: 0; top: 0; right: 0; bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#customModal .modal-bg {
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.17);
+}
+
+#customModal .modal-content {
+    position: relative;
+    min-width: 320px;
+    max-width: 88vw;
+    padding: 2em 2.3em 1.2em 2.3em;
+    background: #fffbe7;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 3010;
+}
+
+#customModal .modal-message {
+    font-size: 1.08em;
+    color: #a86a1c;
+    margin-bottom: 2em;
+    font-weight: 500;
+    text-align: center;
+}
+
+#customModal .modal-actions {
+    display: flex;
+    gap: 2.1em;
+}
+
+#customModal .modal-actions button {
+    font-size: 1.08em;
+    min-width: 80px;
+    padding: 0.55em 1.7em;
+    border-radius: 999px;
+    border: none;
+    background: #ffcf80;
+    color: #a86a1c;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.18s, color 0.18s;
+}
+#customModal .modal-actions button:hover {
+    background: #ffb95e;
+    color: #fff;
+}
+
+#itemFlexList {
+    min-height: 550px;    /* 원래보다 더 줄이고 싶으면 여기 숫자도 줄이기 */
+    padding: 0.5em 0.5em;  /* 패딩도 줄이면 도감 크기 더 작아져! */
+    border-radius: 22px;
+
+}
+
+.docam-bg {
+    width: 100%;
+    max-width: 800px;      /* 전체 도감 폭(원하는 값) */
+    margin: 0 auto;
+}
+.docam-bg-top {
+    height: 20px;          /* 상단 이미지 높이(이미지 실제 px에 맞게!) */
+    background: url('../img/bg/001.png') top center no-repeat;
+    background-size: 100% 100%;
+}
+.docam-bg-mid {
+    background: url('../img/bg/002.png') center repeat-y;
+    background-size: 100% auto;
+    min-height: 100px;     /* 중앙 최소 높이, 필요시 늘리기 */
+    padding: 0.5em 0.5em;
+}
+.docam-bg-bottom {
+    height: 20px;          /* 하단 이미지 높이(이미지 실제 px에 맞게!) */
+    background: url('../img/bg/003.png') bottom center no-repeat;
+    background-size: 100% 100%;
+}
+
+button {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.filter-break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.common-btn {
+  min-width: 164px;  /* 최소 너비, 필요시 width로 고정 */
+  height: 48px;      /* 버튼 높이 */
+  padding: 0 1.5em;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-radius: 12px;
+  border: none;
+  background: #f5f5f5;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  box-sizing: border-box;
+}

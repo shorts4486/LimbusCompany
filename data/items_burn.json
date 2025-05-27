@@ -1,0 +1,42 @@
+[
+  {
+    "no": 1,
+    "id": "BURN-001",
+    "name": "지옥 나비의 꿈",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/001.png",
+      "color": "img/items/color/burn/001.png",
+      "detail": "img/items/detail/burn/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/001.png"
+  },
+  {
+    "no": 3,
+    "id": "BURN-002",
+    "name": "재에서 재로",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/002.png",
+      "color": "img/items/color/burn/002.png"
+    },
+    "desc": "대충 스킬 설명"
+  },
+  {
+    "no": 9,
+    "id": "BURN-003",
+    "name": "작열우모",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/003.png",
+      "color": "img/items/color/burn/003.png",
+      "detail": "img/items/detail/burn/item001_detail.png"
+    },
+    "desc": "대충 스킬 설명",
+    "extraImg": "img/items/special/003.png"
+  }
+]
