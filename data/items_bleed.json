@@ -1,5 +1,5 @@
 [
-  {
+{
     "no": 5,
     "id": "BLEED-001",
     "name": "상처붙이",
@@ -7,11 +7,9 @@
     "attrs": ["출혈"],
     "img": {
       "gray": "img/items/gray/bleed/001.png",
-      "color": "img/items/color/bleed/001.png",
-      "detail": "img/items/detail/001.png"
+      "color": "img/items/color/bleed/001.png"      
     },
-    "desc": "대충 스킬 설명",
-    "extraImg": "img/items/special/001.png"
+    "desc": "통상 2성 에고기프트"    
   },
   {
     "no": 8,
@@ -23,7 +21,7 @@
       "gray": "img/items/gray/bleed/002.png",
       "color": "img/items/color/bleed/002.png"
     },
-    "desc": "대충 스킬 설명"
+    "desc": "통상 1성 에고기프트"
   },
   {
     "no": 20,
@@ -33,10 +31,373 @@
     "attrs": ["출혈"],
     "img": {
       "gray": "img/items/gray/bleed/003.png",
-      "color": "img/items/color/bleed/003.png",
-      "detail": "img/items/detail/bleed/item001_detail.png"
+      "color": "img/items/color/bleed/003.png"
+      
     },
-    "desc": "대충 스킬 설명",
-    "extraImg": "img/items/special/003.png"
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 29,
+    "id": "BLEED-004",
+    "name": "작고 나쁠 인형",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/004.png",
+      "color": "img/items/color/bleed/004.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 42,
+    "id": "BLEED-005",
+    "name": "연기와 철조망",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/005.png",
+      "color": "img/items/color/bleed/005.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 48,
+    "id": "BLEED-006",
+    "name": "녹슨 커터 나이프",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/006.png",
+      "color": "img/items/color/bleed/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 50,
+    "id": "BLEED-007",
+    "name": "붉게 물든 목화",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/007.png",
+      "color": "img/items/color/bleed/007.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 89,
+    "id": "BLEED-008",
+    "name": "녹슨 입마개",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/008.png",
+      "color": "img/items/color/bleed/008.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 90,
+    "id": "BLEED-009",
+    "name": "피안개",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/009.png",
+      "color": "img/items/color/bleed/009.png"
+      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/012.png"
+  },
+  {
+    "no": 106,
+    "id": "BLEED-010",
+    "name": "억류된 찬송",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/010.png",
+      "color": "img/items/color/bleed/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 107,
+    "id": "BLEED-011",
+    "name": "옭아맨 타래",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/011.png",
+      "color": "img/items/color/bleed/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 108,
+    "id": "BLEED-012",
+    "name": "경외심",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/012.png",
+      "color": "img/items/color/bleed/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 109,
+    "id": "BLEED-013",
+    "name": "안식처",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/013.png",
+      "color": "img/items/color/bleed/013.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 110,
+    "id": "BLEED-014",
+    "name": "매혹조각",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/014.png",
+      "color": "img/items/color/bleed/014.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 159,
+    "id": "BLEED-015",
+    "name": "밀라르카",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/015.png",
+      "color": "img/items/color/bleed/015.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 160,
+    "id": "BLEED-016",
+    "name": "찢어진 피주머니",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/017.png",
+      "color": "img/items/color/bleed/017.png"
+      
+    },
+    "desc": "[하드] 통상 3성 에고기프트"    
+  },
+  {
+    "no": 161,
+    "id": "BLEED-017",
+    "name": "치성",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/018.png",
+      "color": "img/items/color/bleed/018.png"
+    },
+    "desc": "조합 3성 에고기프트",
+    "extraImg": "img/items/special/011.png"
+  },
+  {
+    "no": 162,
+    "id": "BLEED-018",
+    "name": "출혈성 쇼크",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/019.png",
+      "color": "img/items/color/bleed/019.png"
+      
+    },
+    "desc": "[하드] 조합 4성 에고기프트",
+    "extraImg": "img/items/special/013.png"    
+  },
+
+
+
+
+
+
+
+  {
+    "no": 206,
+    "id": "BLEED-101",
+    "name": "갇힌 구더기",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/101.png",
+      "color": "img/items/color/bleed/101.png",
+      "detail": "img/items/detail/001.png"
+    },
+    "desc": "카드팩『속하지 못하는』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 211,
+    "id": "BLEED-102",
+    "name": "못과 망치의 책",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/102.png",
+      "color": "img/items/color/bleed/102.png",
+      "detail": "img/items/detail/004.png"
+    },
+    "desc": "카드팩『신앙과 침식』전용 2성 에고기프트"
+  },
+  {
+    "no": 213,
+    "id": "BLEED-103",
+    "name": "불결함",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/103.png",
+      "color": "img/items/color/bleed/103.png",
+      "detail": "img/items/detail/005.png"      
+    },
+    "desc": "카드팩『마주하지 않는』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 214,
+    "id": "BLEED-104",
+    "name": "완전함",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/104.png",
+      "color": "img/items/color/bleed/104.png"    
+    },
+    "desc": "카드팩『신앙과 침식』,『마주하지 않는』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/014.png"    
+  },
+  {
+    "no": 229,
+    "id": "BLEED-205",
+    "name": "라만차랜드 자유이용권",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/105.png",
+      "color": "img/items/color/bleed/105.png",
+      "detail": "img/items/detail/013.png"
+    },
+    "desc": "카드팩『다시 열린 라만차랜드』전용 3성 에고기프트"
+  },
+  {
+    "no": 230,
+    "id": "BLEED-201",
+    "name": "승리의 증표",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/106.png",
+      "color": "img/items/color/bleed/106.png",
+      "detail": "img/items/detail/013.png"
+    },
+    "desc": "카드팩『다시 열린 라만차랜드』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 232,
+    "id": "BLEED-202",
+    "name": "퍼레이드의 가면",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/108.png",
+      "color": "img/items/color/bleed/108.png",
+      "detail": "img/items/detail/014.png"
+    },
+    "desc": "카드팩『끝나지 않는 행렬』전용 4성 에고기프트"
+  },
+
+
+
+
+
+
+  {
+    "no": 236,
+    "id": "BLEED-203",
+    "name": "오염된 실과 바늘",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/201.png",
+      "color": "img/items/color/bleed/201.png",
+      "detail": "img/items/detail/015.png"      
+    },
+    "desc": "카드팩『헬스치킨』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 246,
+    "id": "BLEED-204",
+    "name": "조각난 칼날",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/202.png",
+      "color": "img/items/color/bleed/202.png",
+      "detail": "img/items/detail/019.png"
+      
+    },
+    "desc": "카드팩『육참골단』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 276,
+    "id": "BLEED-206",
+    "name": "치사랑",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/203.png",
+      "color": "img/items/color/bleed/203.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 3성 에고기프트"
+  },
+  {
+    "no": 315,
+    "id": "BLEED-207",
+    "name": "절경",
+    "type": "bleed",
+    "attrs": ["출혈"],
+    "img": {
+      "gray": "img/items/gray/bleed/204.png",
+      "color": "img/items/color/bleed/204.png",
+      "detail": "img/items/detail/020.png"
+    },
+    "desc": "[하드]카드팩『육참골단 bokgak』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/015.png"
   }
 ]

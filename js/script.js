@@ -191,10 +191,7 @@ function insertDetailPanel(item, parentEl) {
         <div class="detail-info">
           <div class="detail-title">${item.name}</div>
           <div class="detail-desc">${item.desc}</div>
-          <div style="margin-top:0.6em;color:#e7a700;font-size:0.97em;">
-              
-              <span style="margin-left:1em;font-size:0.9em">
-                  ${state.acquired[item.id] ? ' ' : ' '}
+          <div style="margin-top:0em;color:#e7a700;font-size:0em;">
               </span>
           </div>
           ${extraImgHtml}
@@ -362,7 +359,7 @@ renderItems = function() {
     filtered = filtered.filter(item => !state.acquired[item.id]);
 }
     if (state.filters.length > 0 && !state.filters.includes('all')) {
-        filtered = ITEMS.filter(item =>
+        filtered = filtered.filter(item =>
             state.filters.some(f =>
                 item.type === f ||
                 ATTRIBUTES.find(attr=>attr.key===f)?.name === item.attrs[0]

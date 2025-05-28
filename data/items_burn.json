@@ -7,11 +7,9 @@
     "attrs": ["화상"],
     "img": {
       "gray": "img/items/gray/burn/001.png",
-      "color": "img/items/color/burn/001.png",
-      "detail": "img/items/detail/burn/item001_detail.png"
+      "color": "img/items/color/burn/001.png"      
     },
-    "desc": "대충 스킬 설명",
-    "extraImg": "img/items/special/001.png"
+    "desc": "통상 2성 에고기프트"    
   },
   {
     "no": 3,
@@ -23,7 +21,7 @@
       "gray": "img/items/gray/burn/002.png",
       "color": "img/items/color/burn/002.png"
     },
-    "desc": "대충 스킬 설명"
+    "desc": "통상 1성 에고기프트"
   },
   {
     "no": 9,
@@ -33,10 +31,284 @@
     "attrs": ["화상"],
     "img": {
       "gray": "img/items/gray/burn/003.png",
-      "color": "img/items/color/burn/003.png",
-      "detail": "img/items/detail/burn/item001_detail.png"
+      "color": "img/items/color/burn/003.png"
+      
     },
-    "desc": "대충 스킬 설명",
-    "extraImg": "img/items/special/003.png"
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 34,
+    "id": "BURN-004",
+    "name": "일점타격논리회로",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/004.png",
+      "color": "img/items/color/burn/004.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 45,
+    "id": "BURN-005",
+    "name": "불꽃의 편린",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/005.png",
+      "color": "img/items/color/burn/005.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 53,
+    "id": "BURN-006",
+    "name": "먼지에서 먼지로",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/006.png",
+      "color": "img/items/color/burn/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 71,
+    "id": "BURN-007",
+    "name": "그을린 원반",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/007.png",
+      "color": "img/items/color/burn/007.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 87,
+    "id": "BURN-008",
+    "name": "타오르는 지성",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/008.png",
+      "color": "img/items/color/burn/008.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 88,
+    "id": "BURN-009",
+    "name": "진혼",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/009.png",
+      "color": "img/items/color/burn/009.png"
+      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/002.png"
+  },
+  {
+    "no": 101,
+    "id": "BURN-010",
+    "name": "융해된 파라핀",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/010.png",
+      "color": "img/items/color/burn/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 102,
+    "id": "BURN-011",
+    "name": "편광",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/011.png",
+      "color": "img/items/color/burn/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 103,
+    "id": "BURN-012",
+    "name": "울화통",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/012.png",
+      "color": "img/items/color/burn/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 104,
+    "id": "BURN-013",
+    "name": "불빛꽃",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/013.png",
+      "color": "img/items/color/burn/013.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 105,
+    "id": "BURN-014",
+    "name": "업화조각",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/014.png",
+      "color": "img/items/color/burn/014.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 155,
+    "id": "BURN-015",
+    "name": "만 년 동안 끓는 솥",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/015.png",
+      "color": "img/items/color/burn/015.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 156,
+    "id": "BURN-016",
+    "name": "만년 화롯불",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/016.png",
+      "color": "img/items/color/burn/016.png"
+      
+    },
+    "desc": "[하드] 통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 157,
+    "id": "BURN-017",
+    "name": "요리 비법 전서",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/017.png",
+      "color": "img/items/color/burn/017.png"
+    },
+    "desc": "조합 3성 에고기프트",
+    "extraImg": "img/items/special/002.png"
+  },
+  {
+    "no": 158,
+    "id": "BURN-018",
+    "name": "훔쳐온 불꽃",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/018.png",
+      "color": "img/items/color/burn/018.png"
+      
+    },
+    "desc": "[하드] 조합 4성 에고기프트",
+    "extraImg": "img/items/special/003.png"    
+  },
+
+
+
+  
+{
+    "no": 233,
+    "id": "BURN-201",
+    "name": "뜨거운 육즙 다리살",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/201.png",
+      "color": "img/items/color/burn/201.png",
+      "detail": "img/items/detail/015.png"
+    },
+    "desc": "카드팩『헬스치킨』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 288,
+    "id": "BURN-202",
+    "name": "부화하지 않은 불씨",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/202.png",
+      "color": "img/items/color/burn/202.png",
+      "detail": "img/items/detail/029.png"
+    },
+    "desc": "카드팩『3호선』전용 4성 에고기프트"
+  },
+  {
+    "no": 304,
+    "id": "BURN-203",
+    "name": "점화 장갑",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/203.png",
+      "color": "img/items/color/burn/203.png",
+      "detail": "img/items/detail/023.png"      
+    },
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 306,
+    "id": "BURN-204",
+    "name": "재점화 플러그",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/204.png",
+      "color": "img/items/color/burn/204.png",
+      "detail": "img/items/detail/023.png"
+      
+    },
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 308,
+    "id": "BURN-205",
+    "name": "잔불",
+    "type": "burn",
+    "attrs": ["화상"],
+    "img": {
+      "gray": "img/items/gray/burn/205.png",
+      "color": "img/items/color/burn/205.png",
+      "detail": "img/items/detail/023.png"
+    },
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
   }
 ]
