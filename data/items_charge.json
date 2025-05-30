@@ -1,0 +1,382 @@
+[
+    {
+    "no": 43,
+    "id": "CHARGE-001",
+    "name": "사원증",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/001.png",
+      "color": "img/items/color/charge/001.png"      
+    },
+    "desc": "통상 2성 에고기프트"    
+  },
+  {
+    "no": 52,
+    "id": "CHARGE-002",
+    "name": "휴대용 전지 소켓",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/002.png",
+      "color": "img/items/color/charge/002.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 57,
+    "id": "CHARGE-003",
+    "name": "야간투시경",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/003.png",
+      "color": "img/items/color/charge/003.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 62,
+    "id": "CHARGE-004",
+    "name": "이력서",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/004.png",
+      "color": "img/items/color/charge/004.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 69,
+    "id": "CHARGE-005",
+    "name": "손목 보호대",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/005.png",
+      "color": "img/items/color/charge/005.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 72,
+    "id": "CHARGE-006",
+    "name": "피뢰침",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/006.png",
+      "color": "img/items/color/charge/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 75,
+    "id": "CHARGE-007",
+    "name": "충전식 장갑",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/007.png",
+      "color": "img/items/color/charge/007.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 99,
+    "id": "CHARGE-008",
+    "name": "물리 간섭 보호잠",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/008.png",
+      "color": "img/items/color/charge/008.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 100,
+    "id": "CHARGE-009",
+    "name": "제 1종 영구기관",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/009.png",
+      "color": "img/items/color/charge/009.png"
+      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/061.png"
+  },
+  {
+    "no": 132,
+    "id": "CHARGE-010",
+    "name": "무정전 전원장치",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/010.png",
+      "color": "img/items/color/charge/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 133,
+    "id": "CHARGE-011",
+    "name": "제한 풀린 제세동기",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/011.png",
+      "color": "img/items/color/charge/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 134,
+    "id": "CHARGE-012",
+    "name": "순찰용 손전등",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/012.png",
+      "color": "img/items/color/charge/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 135,
+    "id": "CHARGE-013",
+    "name": "모조발전기",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/013.png",
+      "color": "img/items/color/charge/013.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 136,
+    "id": "CHARGE-014",
+    "name": "마찰 조각",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/014.png",
+      "color": "img/items/color/charge/014.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 181,
+    "id": "CHARGE-015",
+    "name": "미니어처 전봇대",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/015.png",
+      "color": "img/items/color/charge/015.png"
+      
+    },
+    "desc": "[하드] 통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 182,
+    "id": "CHARGE-016",
+    "name": "1B 타입 팔각 볼트",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/016.png",
+      "color": "img/items/color/charge/016.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 183,
+    "id": "CHARGE-017",
+    "name": "인슐레이터",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/017.png",
+      "color": "img/items/color/charge/017.png"
+    },
+    "desc": "조합 3성 에고기프트",
+    "extraImg": "img/items/special/062.png" 
+  },
+  {
+    "no": 184,
+    "id": "CHARGE-018",
+    "name": "제 5종 영구기관",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/018.png",
+      "color": "img/items/color/charge/018.png"
+      
+    },
+    "desc": "[하드] 조합 4성 에고기프트",
+    "extraImg": "img/items/special/063.png"    
+  },
+
+
+
+
+
+
+
+  {
+    "no": 266,
+    "id": "CHARGE-201",
+    "name": "E식 차원 단검",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/201.png",
+      "color": "img/items/color/charge/201.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 3성 에고기프트"
+  },
+  {
+    "no": 267,
+    "id": "CHARGE-202",
+    "name": "휴대용 역장 배터리",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/202.png",
+      "color": "img/items/color/charge/202.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 3성 에고기프트"
+  },
+  {
+    "no": 268,
+    "id": "CHARGE-203",
+    "name": "생체 발전형 배터리",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/203.png",
+      "color": "img/items/color/charge/203.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 2성 에고기프트"
+  },
+  {
+    "no": 269,
+    "id": "CHARGE-204",
+    "name": "심장 리액트 모듈",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/204.png",
+      "color": "img/items/color/charge/204.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 2성 에고기프트"
+  },
+  {
+    "no": 270,
+    "id": "CHARGE-205",
+    "name": "의체관절 서브모터",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/205.png",
+      "color": "img/items/color/charge/205.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 2성 에고기프트" 
+  },
+  {
+    "no": 272,
+    "id": "CHARGE-206",
+    "name": "자율 작동식 관절",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/206.png",
+      "color": "img/items/color/charge/206.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/065.png"
+  },
+  {
+    "no": 273,
+    "id": "CHARGE-207",
+    "name": "과충전된 배터리",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/207.png",
+      "color": "img/items/color/charge/207.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/064.png"
+  },
+  {
+    "no": 274,
+    "id": "CHARGE-208",
+    "name": "영구동력 서브모터",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/208.png",
+      "color": "img/items/color/charge/208.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/067.png" 
+  },
+  {
+    "no": 275,
+    "id": "CHARGE-209",
+    "name": "하츠 파워드 쥬얼",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/209.png",
+      "color": "img/items/color/charge/209.png",
+      "detail": "img/items/detail/022.png"
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/066.png"
+  },
+  {
+    "no": 277,
+    "id": "CHARGE-210",
+    "name": "어긋난 트랜지스터",
+    "type": "charge",
+    "attrs": ["충전"],
+    "img": {
+      "gray": "img/items/gray/charge/210.png",
+      "color": "img/items/color/charge/210.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 2성 에고기프트"
+  }
+]

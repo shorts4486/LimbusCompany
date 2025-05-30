@@ -1,0 +1,389 @@
+[
+    {
+    "no": 46,
+    "id": "POISE-001",
+    "name": "물부리",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/001.png",
+      "color": "img/items/color/poise/001.png"      
+    },
+    "desc": "통상 2성 에고기프트"    
+  },
+  {
+    "no": 51,
+    "id": "POISE-002",
+    "name": "돌무덤",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/002.png",
+      "color": "img/items/color/poise/002.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 56,
+    "id": "POISE-003",
+    "name": "네잎클로버",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/003.png",
+      "color": "img/items/color/poise/003.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 63,
+    "id": "POISE-004",
+    "name": "추억의 펜던트",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/004.png",
+      "color": "img/items/color/poise/004.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 66,
+    "id": "POISE-005",
+    "name": "네뷸라이저",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/005.png",
+      "color": "img/items/color/poise/005.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 70,
+    "id": "POISE-006",
+    "name": "명경지수",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/006.png",
+      "color": "img/items/color/poise/006.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 73,
+    "id": "POISE-007",
+    "name": "엔도르핀 키트",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/007.png",
+      "color": "img/items/color/poise/007.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 97,
+    "id": "POISE-008",
+    "name": "장식된 편자",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/008.png",
+      "color": "img/items/color/poise/008.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 98,
+    "id": "POISE-009",
+    "name": "복주머니",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/009.png",
+      "color": "img/items/color/poise/009.png"
+      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/052.png"
+  },
+  {
+    "no": 127,
+    "id": "POISE-010",
+    "name": "데블스 셰어",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/010.png",
+      "color": "img/items/color/poise/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 128,
+    "id": "POISE-011",
+    "name": "녹빛 겉날개",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/011.png",
+      "color": "img/items/color/poise/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 129,
+    "id": "POISE-012",
+    "name": "낡은 목각 인형",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/012.png",
+      "color": "img/items/color/poise/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 130,
+    "id": "POISE-013",
+    "name": "미련",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/013.png",
+      "color": "img/items/color/poise/013.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 131,
+    "id": "POISE-014",
+    "name": "교만 조각",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/014.png",
+      "color": "img/items/color/poise/014.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 177,
+    "id": "POISE-015",
+    "name": "어느 날의 기억",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/015.png",
+      "color": "img/items/color/poise/015.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 178,
+    "id": "POISE-016",
+    "name": "엔젤스 컷",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/016.png",
+      "color": "img/items/color/poise/016.png"
+      
+    },
+    "desc": "[하드] 통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 179,
+    "id": "POISE-017",
+    "name": "추억",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/017.png",
+      "color": "img/items/color/poise/017.png"
+    },
+    "desc": "조합 3성 에고기프트",
+    "extraImg": "img/items/special/051.png" 
+  },
+  {
+    "no": 180,
+    "id": "POISE-018",
+    "name": "캐스크 스피리츠",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/018.png",
+      "color": "img/items/color/poise/018.png"
+      
+    },
+    "desc": "[하드] 조합 4성 에고기프트",
+    "extraImg": "img/items/special/053.png"    
+  },
+
+
+
+
+
+  
+{
+    "no": 220,
+    "id": "POISE-101",
+    "name": "고래의 심장",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/101.png",
+      "color": "img/items/color/poise/101.png",
+      "detail": "img/items/detail/008.png"
+    },
+    "desc": "카드팩『기어오는 심연』전용 4성 에고기프트"
+
+    
+  },
+  {
+    "no": 221,
+    "id": "POISE-102",
+    "name": "작살 의족",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/102.png",
+      "color": "img/items/color/poise/102.png",
+      "detail": "img/items/detail/009.png"
+    },
+    "desc": "카드팩『악으로 규정되는』전용 2성 에고기프트"
+  },
+  {
+    "no": 222,
+    "id": "POISE-103",
+    "name": "앞을 비추는 가스등",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/103.png",
+      "color": "img/items/color/poise/103.png",
+      "detail": "img/items/detail/009.png"      
+    },
+    "desc": "카드팩『악으로 규정되는』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/055.png"   
+  },
+
+
+
+
+
+
+
+
+  {
+    "no": 241,
+    "id": "POISE-201",
+    "name": "털방울 모자",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/201.png",
+      "color": "img/items/color/poise/201.png",
+      "detail": "img/items/detail/017.png"
+    },
+    "desc": "카드팩『20번구의 기적』전용 1성 에고기프트"
+  },
+  {
+    "no": 242,
+    "id": "POISE-202",
+    "name": "거대한 선물 보따리",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/202.png",
+      "color": "img/items/color/poise/202.png",
+      "detail": "img/items/detail/017.png"
+    },
+    "desc": "카드팩『20번구의 기적』전용 1성 에고기프트"
+  },
+  {
+    "no": 247,
+    "id": "POISE-203",
+    "name": "부서진 칼날",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/203.png",
+      "color": "img/items/color/poise/203.png",
+      "detail": "img/items/detail/019.png"
+    },
+    "desc": "카드팩『육참골단』전용 3성 에고기프트"
+  },
+  {
+    "no": 251,
+    "id": "POISE-204",
+    "name": "해진 삿갓",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/204.png",
+      "color": "img/items/color/poise/204.png",
+      "detail": "img/items/detail/019.png"
+    },
+    "desc": "카드팩『육참골단』전용 4성 에고기프트"
+  },
+  {
+    "no": 297,
+    "id": "POISE-205",
+    "name": "기쁜 봉제인형",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/205.png",
+      "color": "img/items/color/poise/205.png",
+      "detail": "img/items/detail/017.png"
+    },
+    "desc": "카드팩『20번구의 기적』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/054.png" 
+  },
+  {
+    "no": 302,
+    "id": "POISE-206",
+    "name": "톱니 파편",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/206.png",
+      "color": "img/items/color/poise/206.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 2성 에고기프트"
+  },
+  {
+    "no": 303,
+    "id": "POISE-207",
+    "name": "근접 전술 교본",
+    "type": "poise",
+    "attrs": ["호흡"],
+    "img": {
+      "gray": "img/items/gray/poise/207.png",
+      "color": "img/items/color/poise/207.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 3성 에고기프트"
+  }
+]

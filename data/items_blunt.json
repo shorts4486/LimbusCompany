@@ -1,0 +1,191 @@
+[
+    {
+    "no": 12,
+    "id": "BLUNT-001",
+    "name": "오늘의 표정",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/001.png",
+      "color": "img/items/color/blunt/001.png"      
+    },
+    "desc": "통상 2성 에고기프트"    
+  },
+  {
+    "no": 27,
+    "id": "BLUNT-002",
+    "name": "가장 낮은 별",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/002.png",
+      "color": "img/items/color/blunt/002.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 148,
+    "id": "BLUNT-003",
+    "name": "동티",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/003.png",
+      "color": "img/items/color/blunt/003.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 149,
+    "id": "BLUNT-004",
+    "name": "압박 붕대",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/004.png",
+      "color": "img/items/color/blunt/004.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 150,
+    "id": "BLUNT-005",
+    "name": "시간 굴레",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/005.png",
+      "color": "img/items/color/blunt/005.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 151,
+    "id": "BLUNT-006",
+    "name": "굳게 쥔 상",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/006.png",
+      "color": "img/items/color/blunt/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 152,
+    "id": "BLUNT-007",
+    "name": "바스라진 기억",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/007.png",
+      "color": "img/items/color/blunt/007.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 201,
+    "id": "BLUNT-008",
+    "name": "차원분리수거함",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/008.png",
+      "color": "img/items/color/blunt/008.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 202,
+    "id": "BLUNT-009",
+    "name": "포켓 암기 노트",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/009.png",
+      "color": "img/items/color/blunt/009.png"      
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 203,
+    "id": "BLUNT-010",
+    "name": "차원지각변환체",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/010.png",
+      "color": "img/items/color/blunt/010.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 204,
+    "id": "BLUNT-011",
+    "name": "앙갚음 장부",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/011.png",
+      "color": "img/items/color/blunt/011.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  
+
+
+
+
+
+
+  {
+    "no": 318,
+    "id": "BLUNT-201",
+    "name": "강화 문신-중지",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/201.png",
+      "color": "img/items/color/blunt/201.png",
+      "detail": "img/items/detail/024.png"
+    },
+    "desc": "카드팩『심야청소』전용 2성 에고기프트"
+  },
+  {
+    "no": 321,
+    "id": "BLUNT-202",
+    "name": "의리 사슬",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/202.png",
+      "color": "img/items/color/blunt/202.png",
+      "detail": "img/items/detail/024.png"
+    },
+    "desc": "카드팩『심야청소』전용 3성 에고기프트"
+  },
+  {
+    "no": 324,
+    "id": "BLUNT-203",
+    "name": "영속하는 인연 사슬",
+    "type": "blunt",
+    "attrs": ["타격"],
+    "img": {
+      "gray": "img/items/gray/blunt/203.png",
+      "color": "img/items/color/blunt/203.png",
+      "detail": "img/items/detail/024.png"
+    },
+    "desc": "카드팩『심야청소』전용 조합 3성 에고기프트",
+    "extraImg": "img/items/special/081.png"
+  }
+]

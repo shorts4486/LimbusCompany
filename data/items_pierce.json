@@ -1,0 +1,177 @@
+[
+    {
+    "no": 19,
+    "id": "PIERCE-001",
+    "name": "끈적거리는 진액",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/001.png",
+      "color": "img/items/color/pierce/001.png"      
+    },
+    "desc": "통상 1성 에고기프트"    
+  },
+  {
+    "no": 30,
+    "id": "PIERCE-002",
+    "name": "수집하는 해골",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/002.png",
+      "color": "img/items/color/pierce/002.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 143,
+    "id": "PIERCE-003",
+    "name": "목공용 대못",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/003.png",
+      "color": "img/items/color/pierce/003.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 144,
+    "id": "PIERCE-004",
+    "name": "축복이었던",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/004.png",
+      "color": "img/items/color/pierce/004.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 145,
+    "id": "PIERCE-005",
+    "name": "찢어진 밴돌리어",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/005.png",
+      "color": "img/items/color/pierce/005.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 146,
+    "id": "PIERCE-006",
+    "name": "벼려진 가지",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/006.png",
+      "color": "img/items/color/pierce/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 147,
+    "id": "PIERCE-007",
+    "name": "구멍난 기억",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/007.png",
+      "color": "img/items/color/pierce/007.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 197,
+    "id": "PIERCE-008",
+    "name": "고탄성강 신발",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/008.png",
+      "color": "img/items/color/pierce/008.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 198,
+    "id": "PIERCE-009",
+    "name": "증명의 깃털",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/009.png",
+      "color": "img/items/color/pierce/009.png"      
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 199,
+    "id": "PIERCE-010",
+    "name": "튿어진 소매",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/010.png",
+      "color": "img/items/color/pierce/010.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 200,
+    "id": "PIERCE-011",
+    "name": "듀엘교본 3권",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/011.png",
+      "color": "img/items/color/pierce/011.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  
+
+
+
+
+
+
+  {
+    "no": 299,
+    "id": "PIERCE-201",
+    "name": "흑염 파이프",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/201.png",
+      "color": "img/items/color/pierce/201.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 3성 에고기프트"
+  },
+  {
+    "no": 300,
+    "id": "PIERCE-202",
+    "name": "평등",
+    "type": "pierce",
+    "attrs": ["관통"],
+    "img": {
+      "gray": "img/items/gray/pierce/202.png",
+      "color": "img/items/color/pierce/202.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 3성 에고기프트"
+  }
+]

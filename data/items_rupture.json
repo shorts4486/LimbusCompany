@@ -1,253 +1,240 @@
 [
 {
     "no": 13,
-    "id": "TREMOR-001",
-    "name": "초록빛 결실",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "id": "RUPTURE-001",
+    "name": "부적 묶음",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/001.png",
-      "color": "img/items/color/tremor/001.png"      
+      "gray": "img/items/gray/rupture/001.png",
+      "color": "img/items/color/rupture/001.png"      
     },
-    "desc": "통상 1성 에고기프트"    
-  },
+    "desc": "통상 1성 에고기프트"   
+    },
   {
     "no": 18,
-    "id": "TREMOR-002",
-    "name": "녹아내린 눈알",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "id": "RUPTURE-002",
+    "name": "장미 면류관",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/002.png",
-      "color": "img/items/color/tremor/002.png"
+      "gray": "img/items/gray/rupture/002.png",
+      "color": "img/items/color/rupture/002.png"
     },
-    "desc": "통상 3성 에고기프트"
+    "desc": "통상 1성 에고기프트"
   },
   {
     "no": 23,
-    "id": "TREMOR-003",
-    "name": "닉시 다이버전스",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "id": "RUPTURE-003",
+    "name": "벼락가지",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/003.png",
-      "color": "img/items/color/tremor/003.png"
+      "gray": "img/items/gray/rupture/003.png",
+      "color": "img/items/color/rupture/003.png"
       
     },
-    "desc": "통상 1성 에고기프트"
+    "desc": "통상 3성 에고기프트"
     
   },
   {
     "no": 33,
-    "id": "TREMOR-004",
-    "name": "진동형 팔찌",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "id": "RUPTURE-004",
+    "name": "근무용 통상 배터리",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/004.png",
-      "color": "img/items/color/tremor/004.png"
-      
-    },
-    "desc": "통상 2성 에고기프트"
-    
-  },
-  {
-    "no": 47,
-    "id": "TREMOR-005",
-    "name": "폭우",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/005.png",
-      "color": "img/items/color/tremor/005.png"
-    },
-    "desc": "통상 4성 에고기프트"
-  },
-  {
-    "no": 60,
-    "id": "TREMOR-006",
-    "name": "잔향",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/006.png",
-      "color": "img/items/color/tremor/006.png"
-      
-    },
-    "desc": "통상 2성 에고기프트"
-    
-  },
-  {
-    "no": 91,
-    "id": "TREMOR-007",
-    "name": "진실의 종",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/007.png",
-      "color": "img/items/color/tremor/007.png"
+      "gray": "img/items/gray/rupture/004.png",
+      "color": "img/items/color/rupture/004.png"
       
     },
     "desc": "통상 3성 에고기프트"
     
   },
   {
-    "no": 92,
-    "id": "TREMOR-008",
-    "name": "연성진동",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 47,
+    "id": "RUPTURE-005",
+    "name": "가시 올가미",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/008.png",
-      "color": "img/items/color/tremor/008.png"
+      "gray": "img/items/gray/rupture/005.png",
+      "color": "img/items/color/rupture/005.png"
     },
-    "desc": "조합 4성 에고기프트",
-    "extraImg": "img/items/special/021.png"
+    "desc": "통상 2성 에고기프트"
   },
   {
-    "no": 111,
-    "id": "TREMOR-009",
-    "name": "생체 맹독 바이알",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 60,
+    "id": "RUPTURE-006",
+    "name": "쾌감",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/009.png",
-      "color": "img/items/color/tremor/009.png"      
+      "gray": "img/items/gray/rupture/006.png",
+      "color": "img/items/color/rupture/006.png"
+      
     },
-    "desc": "통상 3성 에고기프트"    
+    "desc": "통상 4성 에고기프트"
+    
   },
   {
-    "no": 112,
-    "id": "TREMOR-010",
-    "name": "극독성 외피",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 64,
+    "id": "RUPTURE-007",
+    "name": "부서진 리볼버",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/010.png",
-      "color": "img/items/color/tremor/010.png"
+      "gray": "img/items/gray/rupture/007.png",
+      "color": "img/items/color/rupture/007.png"
       
     },
     "desc": "통상 1성 에고기프트"
     
   },
   {
-    "no": 113,
-    "id": "TREMOR-011",
-    "name": "시큼한 주향",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 93,
+    "id": "RUPTURE-008",
+    "name": "형광색 램프",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/011.png",
-      "color": "img/items/color/tremor/011.png"
+      "gray": "img/items/gray/rupture/008.png",
+      "color": "img/items/color/rupture/008.png"
     },
     "desc": "통상 2성 에고기프트"
   },
   {
-    "no": 114,
-    "id": "TREMOR-012",
-    "name": "거울 촉각 공감각",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 94,
+    "id": "RUPTURE-009",
+    "name": "황홀경",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/012.png",
-      "color": "img/items/color/tremor/012.png"
+      "gray": "img/items/gray/rupture/009.png",
+      "color": "img/items/color/rupture/009.png"      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/031.png"    
+  },
+  {
+    "no": 117,
+    "id": "RUPTURE-010",
+    "name": "유연화약",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/010.png",
+      "color": "img/items/color/rupture/010.png"
       
     },
     "desc": "통상 2성 에고기프트"
     
   },
   {
-    "no": 115,
-    "id": "TREMOR-013",
-    "name": "톱니바퀴 태엽",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 118,
+    "id": "RUPTURE-011",
+    "name": "뼈 말뚝",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/013.png",
-      "color": "img/items/color/tremor/013.png"
+      "gray": "img/items/gray/rupture/011.png",
+      "color": "img/items/color/rupture/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 119,
+    "id": "RUPTURE-012",
+    "name": "해진 우산",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/012.png",
+      "color": "img/items/color/rupture/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 120,
+    "id": "RUPTURE-013",
+    "name": "죽음바라기",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/013.png",
+      "color": "img/items/color/rupture/013.png"
       
     },
     "desc": "통상 3성 에고기프트"
     
   },
   {
-    "no": 116,
-    "id": "TREMOR-014",
-    "name": "타성조각",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 121,
+    "id": "RUPTURE-014",
+    "name": "욕망 조각",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/014.png",
-      "color": "img/items/color/tremor/014.png"
+      "gray": "img/items/gray/rupture/014.png",
+      "color": "img/items/color/rupture/014.png"
     },
     "desc": "통상 4성 에고기프트"
   },
   {
-    "no": 163,
-    "id": "TREMOR-015",
-    "name": "보석 진동자",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 168,
+    "id": "RUPTURE-015",
+    "name": "종말의 파편",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/015.png",
-      "color": "img/items/color/tremor/015.png"
+      "gray": "img/items/gray/rupture/015.png",
+      "color": "img/items/color/rupture/015.png"
       
     },
-    "desc": "[하드] 통상 1성 에고기프트"
+    "desc": "[하드] 통상 2성 에고기프트"
     
   },
   {
-    "no": 164,
-    "id": "TREMOR-016",
-    "name": "흔들리는 술통",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 169,
+    "id": "RUPTURE-016",
+    "name": "가시 오랏줄",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/016.png",
-      "color": "img/items/color/tremor/016.png"
+      "gray": "img/items/gray/rupture/016.png",
+      "color": "img/items/color/rupture/016.png"
       
     },
-    "desc": "[하드] 통상 2성 에고기프트"    
+    "desc": "통상 2성 에고기프트"    
   },
   {
-    "no": 165,
-    "id": "TREMOR-017",
-    "name": "감합된 톱니바퀴",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 170,
+    "id": "RUPTURE-017",
+    "name": "기괴한 석상",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/017.png",
-      "color": "img/items/color/tremor/017.png"
-    },
-    "desc": "통상 2성 에고기프트"
-  },
-  {
-    "no": 166,
-    "id": "TREMOR-018",
-    "name": "진원점",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/018.png",
-      "color": "img/items/color/tremor/018.png"
-      
+      "gray": "img/items/gray/rupture/017.png",
+      "color": "img/items/color/rupture/017.png"
     },
     "desc": "[하드] 조합 3성 에고기프트",
-    "extraImg": "img/items/special/022.png"    
+    "extraImg": "img/items/special/032.png" 
   },
   {
-    "no": 167,
-    "id": "TREMOR-019",
-    "name": "무진팔방종",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 171,
+    "id": "RUPTURE-018",
+    "name": "파탄",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/019.png",
-      "color": "img/items/color/tremor/019.png"
+      "gray": "img/items/gray/rupture/018.png",
+      "color": "img/items/color/rupture/018.png"
       
     },
     "desc": "[하드] 조합 4성 에고기프트",
-    "extraImg": "img/items/special/023.png"    
+    "extraImg": "img/items/special/033.png"    
   },
 
 
@@ -256,161 +243,157 @@
 
 
 
+
   {
-    "no": 206,
-    "id": "TREMOR-101",
-    "name": "손거울",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 205,
+    "id": "RUPTURE-101",
+    "name": "흑단 브로치",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/101.png",
-      "color": "img/items/color/tremor/101.png",
-      "detail": "img/items/detail/011.png"
+      "gray": "img/items/gray/rupture/101.png",
+      "color": "img/items/color/rupture/101.png",
+      "detail": "img/items/detail/001.png"
     },
-    "desc": "카드팩『어느 세계』전용 조합 3성 에고기프트",
-    "extraImg": "img/items/special/024.png"
+    "desc": "카드팩『속하지 못하는』전용 2성 에고기프트"
     
   },
   {
-    "no": 211,
-    "id": "TREMOR-102",
-    "name": "기름때 찌든 스패너",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 218,
+    "id": "RUPTURE-102",
+    "name": "부치지 못한 편지",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/201.png",
-      "color": "img/items/color/tremor/201.png",
+      "gray": "img/items/gray/rupture/102.png",
+      "color": "img/items/color/rupture/102.png",
+      "detail": "img/items/detail/007.png"
+    },
+    "desc": "카드팩『변하지 않는』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/034.png"
+  },
+
+
+
+
+
+
+  {
+    "no": 234,
+    "id": "RUPTURE-203",
+    "name": "목이 뻑뻑 가슴살",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/201.png",
+      "color": "img/items/color/rupture/201.png",
+      "detail": "img/items/detail/015.png"
+    },
+    "desc": "카드팩『헬스치킨』전용 3성 에고기프트"
+  },
+  {
+    "no": 240,
+    "id": "RUPTURE-204",
+    "name": "크랲게 뇌수 담금주",
+    "type": "rupture",
+    "attrs": ["파열"],
+    "img": {
+      "gray": "img/items/gray/rupture/202.png",
+      "color": "img/items/color/rupture/202.png",
       "detail": "img/items/detail/016.png"
     },
-    "desc": "카드팩『우.미.다』전용 1성 에고기프트"
+    "desc": "카드팩『우.미.다』전용 3성 에고기프트"  
   },
   {
-    "no": 213,
-    "id": "TREMOR-103",
-    "name": "은빛 시계 케이스",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 305,
+    "id": "RUPTURE-206",
+    "name": "가시 전투화",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/202.png",
-      "color": "img/items/color/tremor/202.png",
-      "detail": "img/items/detail/021.png"      
+      "gray": "img/items/gray/rupture/205.png",
+      "color": "img/items/color/rupture/205.png",
+      "detail": "img/items/detail/023.png"
     },
-    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"
-    
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
   },
   {
-    "no": 214,
-    "id": "TREMOR-104",
-    "name": "빛바랜 시계 케이스",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 307,
+    "id": "RUPTURE-207",
+    "name": "강화제 Mk.4",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/203.png",
-      "color": "img/items/color/tremor/203.png",
-      "detail": "img/items/detail/021.png"      
+      "gray": "img/items/gray/rupture/203.png",
+      "color": "img/items/color/rupture/203.png",
+      "detail": "img/items/detail/023.png"
     },
-    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"    
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
   },
   {
-    "no": 229,
-    "id": "TREMOR-205",
-    "name": "에칭 시계침",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 309,
+    "id": "RUPTURE-208",
+    "name": "잔가지",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/204.png",
-      "color": "img/items/color/tremor/204.png",
-      "detail": "img/items/detail/021.png"      
+      "gray": "img/items/gray/rupture/204.png",
+      "color": "img/items/color/rupture/204.png",
+      "detail": "img/items/detail/023.png"
     },
-    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
   },
   {
-    "no": 230,
-    "id": "TREMOR-201",
-    "name": "녹슨 시계침",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 319,
+    "id": "RUPTURE-209",
+    "name": "괴문자 부적",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/205.png",
-      "color": "img/items/color/tremor/205.png",
-      "detail": "img/items/detail/021.png"      
+      "gray": "img/items/gray/rupture/206.png",
+      "color": "img/items/color/rupture/206.png",
+      "detail": "img/items/detail/024.png"
     },
-    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"
-    
+    "desc": "카드팩『심야청소』전용 2성 에고기프트"
   },
   {
-    "no": 232,
-    "id": "TREMOR-202",
-    "name": "낙수의 잔",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 320,
+    "id": "RUPTURE-210",
+    "name": "묘각",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/206.png",
-      "color": "img/items/color/tremor/206.png",
-      "detail": "img/items/detail/021.png"      
+      "gray": "img/items/gray/rupture/207.png",
+      "color": "img/items/color/rupture/207.png",
+      "detail": "img/items/detail/024.png"
     },
-    "desc": "카드팩『시간 살인 시간』전용 3성 에고기프트"
-  },
-
-
-
-
-
-
-  {
-    "no": 236,
-    "id": "TREMOR-203",
-    "name": "회중시계 : 타입 L",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/207.png",
-      "color": "img/items/color/tremor/207.png",
-      "detail": "img/items/detail/021.png"
-    },
-    "desc": "[하드]카드팩『시간 살인 시간』전용 조합 4성 에고기프트",
-    "extraImg": "img/items/special/028.png"    
+    "desc": "카드팩『심야청소』전용 2성 에고기프트"
   },
   {
-    "no": 246,
-    "id": "TREMOR-204",
-    "name": "회중시계 : 타입 E",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 322,
+    "id": "RUPTURE-211",
+    "name": "새겨넣어진 괴문자",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/208.png",
-      "color": "img/items/color/tremor/208.png",
-      "detail": "img/items/detail/021.png"
+      "gray": "img/items/gray/rupture/208.png",
+      "color": "img/items/color/rupture/208.png",
+      "detail": "img/items/detail/024.png"
     },
-    "desc": "[하드]카드팩『시간 살인 시간』전용 조합 4성 에고기프트",
-    "extraImg": "img/items/special/027.png"    
+    "desc": "카드팩『심야청소』전용 3성 에고기프트"
   },
   {
-    "no": 276,
-    "id": "TREMOR-206",
-    "name": "회중시계 : 타입 Y",
-    "type": "tremor",
-    "attrs": ["진동"],
+    "no": 325,
+    "id": "RUPTURE-212",
+    "name": "이전칠자",
+    "type": "rupture",
+    "attrs": ["파열"],
     "img": {
-      "gray": "img/items/gray/tremor/209.png",
-      "color": "img/items/color/tremor/209.png",
-      "detail": "img/items/detail/021.png"
+      "gray": "img/items/gray/rupture/209.png",
+      "color": "img/items/color/rupture/209.png",
+      "detail": "img/items/detail/024.png"
     },
-    "desc": "[하드]카드팩『시간 살인 시간』전용 조합 4성 에고기프트",
-    "extraImg": "img/items/special/026.png"
-  },
-  {
-    "no": 315,
-    "id": "TREMOR-207",
-    "name": "회중시계 : 타입 P",
-    "type": "tremor",
-    "attrs": ["진동"],
-    "img": {
-      "gray": "img/items/gray/tremor/210.png",
-      "color": "img/items/color/tremor/210.png",
-      "detail": "img/items/detail/021.png"
-    },
-    "desc": "[하드]카드팩『시간 살인 시간』전용 조합 4성 에고기프트",
-    "extraImg": "img/items/special/025.png"
+    "desc": "카드팩『심야청소』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/035.png"
   }
 ]

@@ -1,3 +1,1173 @@
 [
+{
+    "no": 2,
+    "id": "NOTHING-001",
+    "name": "도착증",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/001.png",
+      "color": "img/items/color/nothing/001.png"      
+    },
+    "desc": "통상 1성 에고기프트"    
+  },
+  {
+    "no": 4,
+    "id": "NOTHING-002",
+    "name": "혈액포집팩",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/002.png",
+      "color": "img/items/color/nothing/002.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 6,
+    "id": "NOTHING-003",
+    "name": "커피와 종이학",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/003.png",
+      "color": "img/items/color/nothing/003.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 7,
+    "id": "NOTHING-004",
+    "name": "주홍 나방떼",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/004.png",
+      "color": "img/items/color/nothing/004.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 10,
+    "id": "NOTHING-005",
+    "name": "블러디 가젯",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/005.png",
+      "color": "img/items/color/nothing/005.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 11,
+    "id": "NOTHING-006",
+    "name": "여우비",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/006.png",
+      "color": "img/items/color/nothing/006.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 14,
+    "id": "NOTHING-007",
+    "name": "녹슨 기념 주화",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/007.png",
+      "color": "img/items/color/nothing/007.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 15,
+    "id": "NOTHING-008",
+    "name": "고혈",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/008.png",
+      "color": "img/items/color/nothing/008.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 17,
+    "id": "NOTHING-009",
+    "name": "문자 석판",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/009.png",
+      "color": "img/items/color/nothing/009.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 21,
+    "id": "NOTHING-010",
+    "name": "쪽빛 지포라이터",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/010.png",
+      "color": "img/items/color/nothing/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 22,
+    "id": "NOTHING-011",
+    "name": "환상통",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/011.png",
+      "color": "img/items/color/nothing/011.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 25,
+    "id": "NOTHING-012",
+    "name": "잿빛 코트",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/012.png",
+      "color": "img/items/color/nothing/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 26,
+    "id": "NOTHING-013",
+    "name": "대기만성형 타투",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/013.png",
+      "color": "img/items/color/nothing/013.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 28,
+    "id": "NOTHING-014",
+    "name": "편견",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/014.png",
+      "color": "img/items/color/nothing/014.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 35,
+    "id": "NOTHING-015",
+    "name": "저주 인형",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/015.png",
+      "color": "img/items/color/nothing/015.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 36,
+    "id": "NOTHING-016",
+    "name": "카르밀라",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/016.png",
+      "color": "img/items/color/nothing/016.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 37,
+    "id": "NOTHING-017",
+    "name": "플라스크 속의 아이",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/017.png",
+      "color": "img/items/color/nothing/017.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 38,
+    "id": "NOTHING-018",
+    "name": "환상 사냥",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/018.png",
+      "color": "img/items/color/nothing/018.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"  
+  },
+  {
+    "no": 39,
+    "id": "NOTHING-019",
+    "name": "귀로",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/019.png",
+      "color": "img/items/color/nothing/019.png"      
+    },
+    "desc": "통상 2성 에고기프트"    
+  },
+  {
+    "no": 40,
+    "id": "NOTHING-020",
+    "name": "내일의 운세",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/020.png",
+      "color": "img/items/color/nothing/020.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 58,
+    "id": "NOTHING-021",
+    "name": "디스크 파편",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/021.png",
+      "color": "img/items/color/nothing/021.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 67,
+    "id": "NOTHING-022",
+    "name": "특별 계약",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/022.png",
+      "color": "img/items/color/nothing/022.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 68,
+    "id": "NOTHING-023",
+    "name": "성대한 환대",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/023.png",
+      "color": "img/items/color/nothing/023.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 76,
+    "id": "NOTHING-024",
+    "name": "휴대용 구급상자",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/024.png",
+      "color": "img/items/color/nothing/024.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 77,
+    "id": "NOTHING-025",
+    "name": "진통제",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/025.png",
+      "color": "img/items/color/nothing/025.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 78,
+    "id": "NOTHING-026",
+    "name": "게걸스러운 망치",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/026.png",
+      "color": "img/items/color/nothing/026.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 79,
+    "id": "NOTHING-027",
+    "name": "황금색 항아리",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/027.png",
+      "color": "img/items/color/nothing/027.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 80,
+    "id": "NOTHING-028",
+    "name": "생존의 이정표",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/028.png",
+      "color": "img/items/color/nothing/028.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 81,
+    "id": "NOTHING-029",
+    "name": "믿음",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/029.png",
+      "color": "img/items/color/nothing/029.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 82,
+    "id": "NOTHING-030",
+    "name": "인연 조각",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/030.png",
+      "color": "img/items/color/nothing/030.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 83,
+    "id": "NOTHING-031",
+    "name": "달의 기억",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/031.png",
+      "color": "img/items/color/nothing/031.png"
+      
+    },
+    "desc": "통상 5성 에고기프트, [하드] 조합 5성 에고기프트",
+    "extraImg": "img/items/special/000.png"
+    
+  },
+  {
+    "no": 84,
+    "id": "NOTHING-032",
+    "name": "오래된 조각상",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/032.png",
+      "color": "img/items/color/nothing/032.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 85,
+    "id": "NOTHING-033",
+    "name": "비밀 유지 서약서",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/033.png",
+      "color": "img/items/color/nothing/033.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 153,
+    "id": "NOTHING-034",
+    "name": "오라클",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/034.png",
+      "color": "img/items/color/nothing/034.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 154,
+    "id": "NOTHING-035",
+    "name": "강요된 무게",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/035.png",
+      "color": "img/items/color/nothing/035.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 185,
+    "id": "NOTHING-036",
+    "name": "리베이트 토큰",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/036.png",
+      "color": "img/items/color/nothing/036.png"
+      
+    },
+    "desc": "통상 2성 에고기프트" 
+  },
+  {
+    "no": 186,
+    "id": "NOTHING-037",
+    "name": "신상품 팜플렛",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/037.png",
+      "color": "img/items/color/nothing/037.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 187,
+    "id": "NOTHING-038",
+    "name": "특별 카탈로그",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/038.png",
+      "color": "img/items/color/nothing/038.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"   
+  },
+  {
+    "no": 188,
+    "id": "NOTHING-039",
+    "name": "사전 예약 할인권",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/039.png",
+      "color": "img/items/color/nothing/039.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 189,
+    "id": "NOTHING-040",
+    "name": "리뉴얼 굿즈",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/040.png",
+      "color": "img/items/color/nothing/040.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"    
+  },
+  {
+    "no": 190,
+    "id": "NOTHING-041",
+    "name": "체험형 플랜 가이드",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/041.png",
+      "color": "img/items/color/nothing/041.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 191,
+    "id": "NOTHING-042",
+    "name": "프레스티지 카드",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/042.png",
+      "color": "img/items/color/nothing/042.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"   
+  },
+  {
+    "no": 192,
+    "id": "NOTHING-043",
+    "name": "덧붙인 반창고",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/043.png",
+      "color": "img/items/color/nothing/043.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"   
+  },
 
+
+
+  
+
+
+  {
+    "no": 207,
+    "id": "NOTHING-201",
+    "name": "오더메이드",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/101.png",
+      "color": "img/items/color/nothing/101.png",
+      "detail": "img/items/detail/002.png"
+    },
+    "desc": "카드팩『공장 자동화』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 208,
+    "id": "NOTHING-202",
+    "name": "귀신 들린 신발",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/102.png",
+      "color": "img/items/color/nothing/102.png",
+      "detail": "img/items/detail/002.png"
+    },
+    "desc": "카드팩『공장 자동화』전용 2성 에고기프트"
+  },
+  {
+    "no": 212,
+    "id": "NOTHING-203",
+    "name": "핏빛 갈기",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/103.png",
+      "color": "img/items/color/nothing/103.png",
+      "detail": "img/items/detail/004.png"
+    },
+    "desc": "카드팩『신앙과 침식』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 215,
+    "id": "NOTHING-204",
+    "name": "생강꽃 가지",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/104.png",
+      "color": "img/items/color/nothing/104.png",
+      "detail": "img/items/detail/006.png"
+    },
+    "desc": "카드팩『낙화』전용 3성 에고기프트"   
+  },
+  {
+    "no": 216,
+    "id": "NOTHING-205",
+    "name": "만화경",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/105.png",
+      "color": "img/items/color/nothing/105.png",
+      "detail": "img/items/detail/006.png"
+    },
+    "desc": "카드팩『낙화』전용 3성 에고기프트" 
+  },
+  {
+    "no": 217,
+    "id": "NOTHING-206",
+    "name": "깨진 안경",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/106.png",
+      "color": "img/items/color/nothing/106.png",
+      "detail": "img/items/detail/007.png"
+    },
+    "desc": "카드팩『변하지 않는』전용 2성 에고기프트" 
+    
+  },
+  {
+    "no": 219,
+    "id": "NOTHING-207",
+    "name": "마을을 지킬 작살",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/107.png",
+      "color": "img/items/color/nothing/107.png",
+      "detail": "img/items/detail/008.png"
+    },
+    "desc": "카드팩『기어오는 심연』전용 2성 에고기프트" 
+  },
+  {
+    "no": 223,
+    "id": "NOTHING-208",
+    "name": "부서진 바이올린",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/108.png",
+      "color": "img/items/color/nothing/108.png",
+      "detail": "img/items/detail/010.png"
+    },
+    "desc": "카드팩『저택의 부산물』전용 3성 에고기프트"
+  },
+  {
+    "no": 225,
+    "id": "NOTHING-209",
+    "name": "치프 버틀러의 비급서",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/109.png",
+      "color": "img/items/color/nothing/109.png",
+      "detail": "img/items/detail/011.png"
+    },
+    "desc": "카드팩『어느 세계』전용 3성 에고기프트"
+  },
+  {
+    "no": 227,
+    "id": "NOTHING-210",
+    "name": "버틀러식 포박술",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/110.png",
+      "color": "img/items/color/nothing/110.png",
+      "detail": "img/items/detail/012.png"
+    },
+    "desc": "카드팩『마음이 어긋나는』전용 2성 에고기프트"
+  },
+  {
+    "no": 231,
+    "id": "NOTHING-211",
+    "name": "먹어치우는 큐브",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/111.png",
+      "color": "img/items/color/nothing/111.png",
+      "detail": "img/items/detail/014.png"
+    },
+    "desc": "카드팩『끝나지 않는 행렬』전용 2성 에고기프트"
+  },
+
+
+
+
+  
+{
+    "no": 235,
+    "id": "NOTHING-301",
+    "name": "탱고 닭양념장",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/201.png",
+      "color": "img/items/color/nothing/201.png",
+      "detail": "img/items/detail/015.png"
+    },
+    "desc": "카드팩『헬스치킨』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 237,
+    "id": "NOTHING-302",
+    "name": "날카로운 실과 바늘",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/202.png",
+      "color": "img/items/color/nothing/202.png",
+      "detail": "img/items/detail/015.png"
+    },
+    "desc": "카드팩『헬스치킨』전용 3성 에고기프트"
+  },
+  {
+    "no": 239,
+    "id": "NOTHING-303",
+    "name": "반짝이는 폐품",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/203.png",
+      "color": "img/items/color/nothing/203.png",
+      "detail": "img/items/detail/016.png"      
+    },
+    "desc": "카드팩『우.미.다』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 243,
+    "id": "NOTHING-304",
+    "name": "슬픈 봉제인형",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/204.png",
+      "color": "img/items/color/nothing/204.png",
+      "detail": "img/items/detail/017.png"
+      
+    },
+    "desc": "카드팩『20번구의 기적』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 244,
+    "id": "NOTHING-305",
+    "name": "검은 장부",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/205.png",
+      "color": "img/items/color/nothing/205.png",
+      "detail": "img/items/detail/019.png"
+    },
+    "desc": "카드팩『육참골단』전용 2성 에고기프트"
+  },
+  {
+    "no": 255,
+    "id": "NOTHING-306",
+    "name": "경고장",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/207.png",
+      "color": "img/items/color/nothing/207.png",
+      "detail": "img/items/detail/021.png"
+    },
+    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"
+  },
+  {
+    "no": 259,
+    "id": "NOTHING-307",
+    "name": "선불 시간 영수증",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/208.png",
+      "color": "img/items/color/nothing/208.png",
+      "detail": "img/items/detail/021.png"
+    },
+    "desc": "카드팩『시간 살인 시간』전용 2성 에고기프트"
+  },
+  {
+    "no": 264,
+    "id": "NOTHING-308",
+    "name": "일반식 할인 바우처",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/209.png",
+      "color": "img/items/color/nothing/209.png",
+      "detail": "img/items/detail/022.png"      
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 1성 에고기프트"
+    
+  },
+  {
+    "no": 265,
+    "id": "NOTHING-309",
+    "name": "아이스크림 통조림",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/210.png",
+      "color": "img/items/color/nothing/210.png",
+      "detail": "img/items/detail/022.png"      
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 271,
+    "id": "NOTHING-310",
+    "name": "결정화된 혈액",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/211.png",
+      "color": "img/items/color/nothing/211.png",
+      "detail": "img/items/detail/022.png"      
+    },
+    "desc": "카드팩『워프특급 살인사건』전용 2성 에고기프트"
+  },
+  {
+    "no": 280,
+    "id": "NOTHING-311",
+    "name": "고초",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/212.png",
+      "color": "img/items/color/nothing/212.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 281,
+    "id": "NOTHING-312",
+    "name": "가시나무 관",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/213.png",
+      "color": "img/items/color/nothing/213.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 3성 에고기프트"
+  },
+  {
+    "no": 283,
+    "id": "NOTHING-313",
+    "name": "뱀 허물",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/214.png",
+      "color": "img/items/color/nothing/214.png",
+      "detail": "img/items/detail/027.png"      
+    },
+    "desc": "카드팩『1호선』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 284,
+    "id": "NOTHING-314",
+    "name": "거짓 광배",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/215.png",
+      "color": "img/items/color/nothing/215.png",
+      "detail": "img/items/detail/027.png"      
+    },
+    "desc": "카드팩『1호선』전용 4성 에고기프트"
+    
+  },
+  {
+    "no": 285,
+    "id": "NOTHING-315",
+    "name": "메트로놈",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/216.png",
+      "color": "img/items/color/nothing/216.png",
+      "detail": "img/items/detail/028.png"      
+    },
+    "desc": "카드팩『2호선』전용 2성 에고기프트"
+  },
+  {
+    "no": 286,
+    "id": "NOTHING-316",
+    "name": "굴레",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/217.png",
+      "color": "img/items/color/nothing/217.png",
+      "detail": "img/items/detail/028.png"      
+    },
+    "desc": "카드팩『2호선』전용 4성 에고기프트"
+    
+  },
+  {
+    "no": 287,
+    "id": "NOTHING-317",
+    "name": "경멸의 시선의 경멸",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/218.png",
+      "color": "img/items/color/nothing/218.png",
+      "detail": "img/items/detail/029.png"
+    },
+    "desc": "카드팩『3호선』전용 2성 에고기프트"
+  },
+  {
+    "no": 289,
+    "id": "NOTHING-318",
+    "name": "대양전 접지 플러그",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/219.png",
+      "color": "img/items/color/nothing/219.png",
+      "detail": "img/items/detail/030.png"      
+    },
+    "desc": "카드팩『4호선 α섹션』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 290,
+    "id": "NOTHING-319",
+    "name": "왕의 잔재",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/220.png",
+      "color": "img/items/color/nothing/220.png",
+      "detail": "img/items/detail/030.png"      
+    },
+    "desc": "카드팩『4호선 α섹션』전용 4성 에고기프트"
+    
+  },
+  {
+    "no": 291,
+    "id": "NOTHING-320",
+    "name": "불 꺼진 랜턴",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/221.png",
+      "color": "img/items/color/nothing/221.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 1성 에고기프트"
+  },
+  {
+    "no": 292,
+    "id": "NOTHING-321",
+    "name": "불 꺼진 촛대",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/222.png",
+      "color": "img/items/color/nothing/222.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 2성 에고기프트"
+    
+  },
+  {
+    "no": 293,
+    "id": "NOTHING-322",
+    "name": "그림자 괴물",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/223.png",
+      "color": "img/items/color/nothing/223.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 조합 3성 에고기프트",
+    "extraImg": "img/items/special/1001.png"
+  },
+  {
+    "no": 294,
+    "id": "NOTHING-323",
+    "name": "포장용 상자",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/224.png",
+      "color": "img/items/color/nothing/224.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 1성 에고기프트"
+    
+  },
+  {
+    "no": 295,
+    "id": "NOTHING-324",
+    "name": "포장용 끈",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/225.png",
+      "color": "img/items/color/nothing/225.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 296,
+    "id": "NOTHING-325",
+    "name": "선물",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/226.png",
+      "color": "img/items/color/nothing/226.png",
+      "detail": "img/items/detail/018.png"
+    },
+    "desc": "[하드] 카드팩『20번구의 기적bokgak』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/1002.png"
+  },
+  {
+    "no": 298,
+    "id": "NOTHING-326",
+    "name": "묵시적 계약 갱신",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/227.png",
+      "color": "img/items/color/nothing/227.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 301,
+    "id": "NOTHING-327",
+    "name": "신속한 지휘",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/228.png",
+      "color": "img/items/color/nothing/228.png",
+      "detail": "img/items/detail/026.png"
+    },
+    "desc": "카드팩『탄환이 찍은 마침표』전용 2성 에고기프트"
+  },
+  {
+    "no": 310,
+    "id": "NOTHING-328",
+    "name": "통상 작전용 장비",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/229.png",
+      "color": "img/items/color/nothing/229.png",
+      "detail": "img/items/detail/023.png"      
+    },
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 311,
+    "id": "NOTHING-329",
+    "name": "작전 승인 카드",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/230.png",
+      "color": "img/items/color/nothing/230.png",
+      "detail": "img/items/detail/023.png"
+      
+    },
+    "desc": "카드팩『LCB 정기검진』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 312,
+    "id": "NOTHING-330",
+    "name": "고위험 작전용 장비",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/231.png",
+      "color": "img/items/color/nothing/231.png",
+      "detail": "img/items/detail/023.png"
+    },
+    "desc": "카드팩『LCB 정기검진』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/1003.png"
+  },
+  {
+    "no": 313,
+    "id": "NOTHING-331",
+    "name": "원목 술잔",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/232.png",
+      "color": "img/items/color/nothing/232.png",
+      "detail": "img/items/detail/020.png"
+    },
+    "desc": "[하드] 카드팩『육참골단bokgak』전용 3성 에고기프트"
+    
+  },
+  {
+    "no": 314,
+    "id": "NOTHING-332",
+    "name": "낡은 칼자루",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/233.png",
+      "color": "img/items/color/nothing/233.png",
+      "detail": "img/items/detail/020.png"
+    },
+    "desc": "[하드] 카드팩『육참골단bokgak』전용 3성 에고기프트"
+  },
+  {
+    "no": 326,
+    "id": "NOTHING-333",
+    "name": "찰랑이는 연료통",
+    "type": "nothing",
+    "attrs": ["범용"],
+    "img": {
+      "gray": "img/items/gray/nothing/234.png",
+      "color": "img/items/color/nothing/234.png",
+      "detail": "img/items/detail/024.png"      
+    },
+    "desc": "카드팩『심야청소』전용 3성 에고기프트"
+    
+  }
 ]

@@ -1,0 +1,361 @@
+[
+  {
+    "no": 41,
+    "id": "SINKING-001",
+    "name": "적색지령",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/001.png",
+      "color": "img/items/color/sinking/001.png"      
+    },
+    "desc": "통상 2성 에고기프트"    
+  },
+  {
+    "no": 49,
+    "id": "SINKING-002",
+    "name": "가시밭길",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/002.png",
+      "color": "img/items/color/sinking/002.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 54,
+    "id": "SINKING-003",
+    "name": "녹아내린 시계태엽",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/003.png",
+      "color": "img/items/color/sinking/003.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 59,
+    "id": "SINKING-004",
+    "name": "한겨울 밤의 악몽",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/004.png",
+      "color": "img/items/color/sinking/004.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 61,
+    "id": "SINKING-005",
+    "name": "유골 부스러기",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/005.png",
+      "color": "img/items/color/sinking/005.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 65,
+    "id": "SINKING-006",
+    "name": "미적감각",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/006.png",
+      "color": "img/items/color/sinking/006.png"
+      
+    },
+    "desc": "통상 4성 에고기프트"
+    
+  },
+  {
+    "no": 74,
+    "id": "SINKING-007",
+    "name": "머리 없는 초상화",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/007.png",
+      "color": "img/items/color/sinking/007.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 95,
+    "id": "SINKING-008",
+    "name": "고장난 나침반",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/008.png",
+      "color": "img/items/color/sinking/008.png"
+    },
+    "desc": "통상 3성 에고기프트"
+  },
+  {
+    "no": 96,
+    "id": "SINKING-009",
+    "name": "검은 악보",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/009.png",
+      "color": "img/items/color/sinking/009.png"
+      
+    },
+    "desc": "조합 4성 에고기프트",
+    "extraImg": "img/items/special/041.png"
+  },
+  {
+    "no": 122,
+    "id": "SINKING-010",
+    "name": "고목 함정",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/010.png",
+      "color": "img/items/color/sinking/010.png"
+      
+    },
+    "desc": "통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 123,
+    "id": "SINKING-011",
+    "name": "넝마",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/011.png",
+      "color": "img/items/color/sinking/011.png"
+    },
+    "desc": "통상 1성 에고기프트"
+  },
+  {
+    "no": 124,
+    "id": "SINKING-012",
+    "name": "장엄",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/012.png",
+      "color": "img/items/color/sinking/012.png"
+      
+    },
+    "desc": "통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 125,
+    "id": "SINKING-013",
+    "name": "머나먼 별",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/013.png",
+      "color": "img/items/color/sinking/013.png"
+      
+    },
+    "desc": "통상 3성 에고기프트"
+    
+  },
+  {
+    "no": 126,
+    "id": "SINKING-014",
+    "name": "잠식 조각",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/014.png",
+      "color": "img/items/color/sinking/014.png"
+    },
+    "desc": "통상 4성 에고기프트"
+  },
+  {
+    "no": 172,
+    "id": "SINKING-015",
+    "name": "칸타빌레",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/015.png",
+      "color": "img/items/color/sinking/015.png"
+      
+    },
+    "desc": "[하드] 통상 1성 에고기프트"
+    
+  },
+  {
+    "no": 173,
+    "id": "SINKING-016",
+    "name": "빛바랜 외투",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/016.png",
+      "color": "img/items/color/sinking/016.png"
+      
+    },
+    "desc": "[하드] 통상 2성 에고기프트"
+    
+  },
+  {
+    "no": 174,
+    "id": "SINKING-017",
+    "name": "뒤엉킨 뼛조각",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/017.png",
+      "color": "img/items/color/sinking/017.png"
+    },
+    "desc": "통상 2성 에고기프트"
+  },
+  {
+    "no": 175,
+    "id": "SINKING-018",
+    "name": "서지 글로브",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/018.png",
+      "color": "img/items/color/sinking/018.png"
+      
+    },
+    "desc": "[하드] 조합 3성 에고기프트",
+    "extraImg": "img/items/special/042.png"    
+  },
+  {
+    "no": 176,
+    "id": "SINKING-019",
+    "name": "덮칠 파도",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/019.png",
+      "color": "img/items/color/sinking/019.png"
+      
+    },
+    "desc": "[하드] 조합 4성 에고기프트",
+    "extraImg": "img/items/special/043.png"    
+  },
+
+
+
+
+
+  
+{
+    "no": 209,
+    "id": "SINKING-101",
+    "name": "얼어붙은 아우성",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/101.png",
+      "color": "img/items/color/sinking/101.png",
+      "detail": "img/items/detail/003.png"
+    },
+    "desc": "카드팩『사랑할 수 없는』전용 2성 에고기프트"
+
+    
+  },
+  {
+    "no": 210,
+    "id": "SINKING-102",
+    "name": "서릿발 발자국",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/102.png",
+      "color": "img/items/color/sinking/102.png"
+    },
+    "desc": "카드팩『공장 자동화』,『사랑할 수 없는』전용 조합 4성 에고기프트",
+    "extraImg": "img/items/special/044.png"
+  },
+  {
+    "no": 224,
+    "id": "SINKING-103",
+    "name": "모형 저택 오르골",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/103.png",
+      "color": "img/items/color/sinking/103.png",
+      "detail": "img/items/detail/010.png"      
+    },
+    "desc": "카드팩『저택의 부산물』전용 3성 에고기프트"    
+  },
+  {
+    "no": 228,
+    "id": "SINKING-104",
+    "name": "굴절 유리관",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/104.png",
+      "color": "img/items/color/sinking/104.png",
+      "detail": "img/items/detail/012.png"
+      
+    },
+    "desc": "카드팩『마음이 어긋나는』전용 4성 에고기프트"   
+  },
+
+
+
+
+
+
+
+  {
+    "no": 278,
+    "id": "SINKING-201",
+    "name": "정신 오염 가속 가스",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/201.png",
+      "color": "img/items/color/sinking/201.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 2성 에고기프트"
+  },
+  {
+    "no": 279,
+    "id": "SINKING-202",
+    "name": "흘러내린 엔케팔린",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/202.png",
+      "color": "img/items/color/sinking/202.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 2성 에고기프트"
+  },
+  {
+    "no": 282,
+    "id": "SINKING-203",
+    "name": "안식",
+    "type": "sinking",
+    "attrs": ["침잠"],
+    "img": {
+      "gray": "img/items/gray/sinking/203.png",
+      "color": "img/items/color/sinking/203.png",
+      "detail": "img/items/detail/025.png"
+    },
+    "desc": "카드팩『자색 정오의 시련』전용 3성 에고기프트"
+  }
+]
